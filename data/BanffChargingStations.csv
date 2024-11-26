@@ -1,19 +1,19 @@
-Charging Station,Address,Port Type,Number of plugs,Charging Level,Charging Cost,Latitude,Longitude,Network,Usage,Accessibility,Time Limit,Parking Cost ($/hr)
-Cave and Basin - Banff National Park - Tesla Destination,"311 Cave Avenue, Banff, AB, T1L 1K2",EV Plug (J1772),3,2,Free,51.169923,-115.5950771,16z,Low,Public,inf,0
-Cave and Basin - Banff National Park - Tesla Destination,"311 Cave Avenue, Banff, AB, T1L 1K2",Tesla,3,2,Free,51.169923,-115.5950771,16z,Low,Public,inf,0
-The Fairmont - Banff Springs Parking Lot,"405 Spray Avenue, Banff, AB, T1L 1J4",EV Plug (J1772),1,2,Free,51.1648239,-115.5684571,17z,N/A,Private,inf,0
-The Fairmont Banff Springs - Tesla Destination,"405 Spray Avenue, Banff, AB, T1L 1J4",Tesla,6,2,Free,51.1648239,-115.5684571,17z,N/A,Private,inf,0
-Banff Centre for Arts and Creativity,"107 Tunnel Mountain Drive, Banff, AB, T1L 1H5",EV Plug (J1772),2,2,Free,51.172305,-115.5646715,17z,Low,Public,inf,0
-95 Banff Avenue,"95 Banff Avenue, Banff, AB, T1L 1A1",Tesla,4,2,Free,51.1738722,-115.5742398,17z,High,Public,inf,6
-Banff Bear B&B,"108 Otter Street, Banff, AB, T1L 1B3",EV Plug (J1772),1,2,Free,51.1746417,-115.5687883,17z,N/A,Private,inf,0
-Banff - Bear Street Parkade,"128 Bear Street, Banff, AB, T1L 1A1",EV Plug (J1772),1,2,Free,51.1759415,-115.5748543,17z,High,Public,3,6
-Banff Visitor Centre - Tesla Destination,"224 Banff Avenue, Banff, AB, T1L 1B3",EV Plug (J1772),4,2,Free,51.1779787,-115.5727384,17z,Moderate,Public,3,0
-Banff Visitor Centre - Tesla Destination,"224 Banff Avenue, Banff, AB, T1L 1B3",Tesla,4,2,Free,51.1779787,-115.5727384,17z,Moderate,Public,3,0
-Moose Hotel & Suites,"345 Banff Ave, Banff, AB T1L 1H8",EV Plug (J1772),1,2,Free,51.180729,-115.569794,17z,N/A,Private,inf,0
-Moose Hotel & Suites,"345 Banff Ave, Banff, AB T1L 1H8",Tesla,2,2,Free,51.180729,-115.569794,17z,N/A,Private,inf,0
-Banff - Best Western Siding 29 Lodge,"29 Lodge 453 Marten Street, Banff, AB, T1L 1B3",EV Plug (J1772),1,2,Free,51.1830396,-115.5681233,17z,N/A,Private,inf,0
-Juniper Hotel and Bistro,"1 Juniper Way, Banff, AB, T1L 1E1",EV Plug (J1772),1,2,Free,51.1873795,-115.5908471,17z,N/A,Private,inf,0
-Banff Hot Springs-Gondola,"1 Mountain Avenue, Banff, AB, T1L 1K2",EV Plug (J1772),3,2,Free,51.148636,-115.556778,17z,High,Public,inf,0
-Banff Hot Springs-Gondola,"1 Mountain Avenue, Banff, AB, T1L 1K2",Tesla,3,2,Free,51.148636,-115.556778,17z,High,Public,inf,0
-The Rimrock Resort Hotel,"300 Mountain Avenue, Banff, AB, T1L 1J2",Tesla,9,2,Free,51.151901,-115.56033,17z,N/A,Private,inf,0
-Moxy Banff Hotel,"555 Banff Avenue, Banff, AB, T1L 1B5",EV Plug (J1772),4,2,Free,51.18556,-115.55733,17z,N/A,Private,inf,0
+Charging Station,station_id,Address,Port Type,num_lvl_1,num_lvl_2,num_lvl_3,charge_cost,Latitude,Longitude,Network,usage_level,accessibility,parking_time_limit,parking_cost
+Cave and Basin - Banff National Park - Tesla Destination,1,"311 Cave Avenue, Banff, AB, T1L 1K2",EV Plug (J1772),0,3,0,0,51.169923,-115.5950771,16z,low,public,inf,0
+Cave and Basin - Banff National Park - Tesla Destination,2,"311 Cave Avenue, Banff, AB, T1L 1K2",Tesla,0,3,0,0,51.169923,-115.5950771,16z,low,public,inf,0
+The Fairmont - Banff Springs Parking Lot,3,"405 Spray Avenue, Banff, AB, T1L 1J4",EV Plug (J1772),0,1,0,0,51.1648239,-115.5684571,17z,N/A,private,inf,0
+The Fairmont Banff Springs - Tesla Destination,4,"405 Spray Avenue, Banff, AB, T1L 1J4",Tesla,0,6,0,0,51.1648239,-115.5684571,17z,N/A,private,inf,0
+Banff Centre for Arts and Creativity,5,"107 Tunnel Mountain Drive, Banff, AB, T1L 1H5",EV Plug (J1772),0,2,0,0,51.172305,-115.5646715,17z,low,public,inf,0
+95 Banff Avenue,6,"95 Banff Avenue, Banff, AB, T1L 1A1",Tesla,0,4,0,0,51.1738722,-115.5742398,17z,high,public,inf,6
+Banff Bear B&B,7,"108 Otter Street, Banff, AB, T1L 1B3",EV Plug (J1772),0,1,0,0,51.1746417,-115.5687883,17z,N/A,private,inf,0
+Banff - Bear Street Parkade,8,"128 Bear Street, Banff, AB, T1L 1A1",EV Plug (J1772),0,1,0,0,51.1759415,-115.5748543,17z,high,public,3,6
+Banff Visitor Centre - Tesla Destination,9,"224 Banff Avenue, Banff, AB, T1L 1B3",EV Plug (J1772),0,4,0,0,51.1779787,-115.5727384,17z,moderate,public,3,0
+Banff Visitor Centre - Tesla Destination,10,"224 Banff Avenue, Banff, AB, T1L 1B3",Tesla,0,4,0,0,51.1779787,-115.5727384,17z,moderate,public,3,0
+Moose Hotel & Suites,11,"345 Banff Ave, Banff, AB T1L 1H8",EV Plug (J1772),0,1,0,0,51.180729,-115.569794,17z,N/A,private,inf,0
+Moose Hotel & Suites,12,"345 Banff Ave, Banff, AB T1L 1H8",Tesla,0,2,0,0,51.180729,-115.569794,17z,N/A,private,inf,0
+Banff - Best Western Siding 29 Lodge,13,"29 Lodge 453 Marten Street, Banff, AB, T1L 1B3",EV Plug (J1772),0,1,0,0,51.1830396,-115.5681233,17z,N/A,private,inf,0
+Juniper Hotel and Bistro,14,"1 Juniper Way, Banff, AB, T1L 1E1",EV Plug (J1772),0,1,0,0,51.1873795,-115.5908471,17z,N/A,private,inf,0
+Banff Hot Springs-Gondola,15,"1 Mountain Avenue, Banff, AB, T1L 1K2",EV Plug (J1772),0,3,0,0,51.148636,-115.556778,17z,high,public,inf,0
+Banff Hot Springs-Gondola,16,"1 Mountain Avenue, Banff, AB, T1L 1K2",Tesla,0,3,0,0,51.148636,-115.556778,17z,high,public,inf,0
+The Rimrock Resort Hotel,17,"300 Mountain Avenue, Banff, AB, T1L 1J2",Tesla,0,9,0,0,51.151901,-115.56033,17z,N/A,private,inf,0
+Moxy Banff Hotel,18,"555 Banff Avenue, Banff, AB, T1L 1B5",EV Plug (J1772),0,4,0,0,51.18556,-115.55733,17z,N/A,private,inf,0
