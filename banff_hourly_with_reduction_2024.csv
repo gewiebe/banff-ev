@@ -1,4 +1,4 @@
-Date/Time (LST),Temp (°C),% Reduction in Charging Speed
+TimeStamp,Temp (C),% Reduction in Charging Speed
 2024-01-01 00:00,0.0,39.89786147462496
 2024-01-01 01:00,-0.1,40.05745292052346
 2024-01-01 02:00,-0.7,41.015001595914455
